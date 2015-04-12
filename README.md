@@ -14,6 +14,7 @@ my awsome Xcode color themes
 
 ### Install using Alcatraz
 If you have installed the package manager Akcatoraz (http://alcatraz.io):
+
 1. Launch package manager from Xcode > Window > Package Manager
 2. Search `Stout` from color themes section
 3. Click Install button of `Stout` from search result
