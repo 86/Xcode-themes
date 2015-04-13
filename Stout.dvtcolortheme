@@ -1,21 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!--
-//   .d88888b     d888888P     .88888.     dP     dP    d888888P
-//   88.    "'       88       d8'   `8b    88     88       88
-//   `Y88888b.       88       88     88    88     88       88
-//         `8b       88       88     88    88     88       88
-//   d8'   .8P       88       Y8.   .8P    Y8.   .8P       88
-//    Y88888P        dP        `8888P'     `Y88888P'       dP
-//
-//   the dark color theme inspired by the dark beer style Stout
-//   ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-//
-//   https://github.com/86/Xcode-themes
-//   Copyright 2015, 86
-//   Released under the MIT license
--->
-
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -28,7 +11,7 @@
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.389677 0.423542 0.821557 1</string>
+	<string>0.426857 0.445806 0.766517 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
@@ -42,9 +25,9 @@
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.121569 0.0901961 0.0627451 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.612641 0.380114 0.412628 1</string>
+	<string>0.935944 0.877369 0.821368 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.1422 0.117247 0.0719624 1</string>
+	<string>0.250919 0.211671 0.157184 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
@@ -52,11 +35,11 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.57028 0.438028 0.341869 1</string>
+	<string>0.932841 0.874469 0.818662 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.188409 0.154419 0.0899829 1</string>
+	<string>0.254447 0.21411 0.158674 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
